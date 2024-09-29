@@ -1,11 +1,14 @@
 # Operating Systems Lab Work
 
-This repository contains my lab work for the **Operating Systems** course at **AIUB**. All labs were conducted on my **macOS** machine using the terminal (CLI). Since macOS and Linux are both UNIX-based, I was allowed to use my macOS terminal, as it supports most of the same commands as Linux.
+This repository contains my lab work for the **Operating Systems** course at **American International University - Bangladesh (AIUB)**. All labs were conducted on my **macOS** machine using the terminal (CLI). Since macOS and Linux are both UNIX-based, I was allowed to use my macOS terminal, as it supports most of the same commands as Linux.
+
+### Course Information
+For more details on the course, refer to the [AIUB Undergraduate Course Catalog](https://www.aiub.edu/faculties/fst/ug-course-catalog).  
+*Note: Search for "Operating Systems" for specific course information.*
 
 ## Repository Structure
 
 The repository is organized into two sections: **Mid Term** and **Final Term**, with respective labs and tasks. Shell scripts (`.sh` files) created during the course are also included.
-
 
 <details>
   <summary>The repository is organized as follows:</summary>
