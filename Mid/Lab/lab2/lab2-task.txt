@@ -1,0 +1,8 @@
+1. Create a directory named Barcelona
+2. Create another directory called Real-Madrid
+3. Create teambcn.txt inside the Barcelona directory
+4. Create teamrm.txt inside the Real-Madrid directory
+5. Type 5 player's name in teambcn.txt
+6. Type 5 player's name in teamrm.txt
+7. Backup both teambnc.txt and teamrm.txt in a directory named backup
+

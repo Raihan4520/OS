@@ -1,0 +1,5 @@
+This is my test file to check wc command.
+this another line.
+3rd line.
+4th line.
+5th line.
