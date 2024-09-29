@@ -1,0 +1,5 @@
+Instructions
+
+Write a shell-script which takes the following inputs – name, id and password, then print all input using echo in terminal. 
+ 
+Upload screenshot of your shell script and output.

@@ -1,0 +1,3 @@
+Instructions
+
+Take two float numbers as input, calculate summation, subtraction, division and multiplication and print results in the output. 
