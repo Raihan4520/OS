@@ -1,4 +1,4 @@
-# Operating Systems Lab Work
+# Operating Systems (OS) Lab Work
 
 This repository contains my lab work for the **Operating Systems** course at **American International University - Bangladesh (AIUB)**. All labs were conducted on my **macOS** machine using the terminal (CLI). Since macOS and Linux are both UNIX-based, I was allowed to use my macOS terminal, as it supports most of the same commands as Linux.
 
